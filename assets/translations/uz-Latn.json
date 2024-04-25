@@ -1,0 +1,80 @@
+{
+  "select_language_text" : "Tilni tanlash",
+
+  "slide_1_description" : "Job Baraka дастури  orqali siz ózińgizga yaqin bolgan hududdan kerekli usta yoki xizmatchini tez topa olasız.",
+  "slide_1_title" : "Ishchi izlash",
+  "slide_1_button_next_1" : "Keyingi",
+  "slide_1_button_back_1" : "Ótkazib yoborish",
+
+
+  "slide_2_description" : "Jumladan ish, qidiruvchilar va xizmatkorlarda o'zi uchun buyurtma yoki ishi o'rnini topish imkoniyati mavjud.",
+  "slide_2_title" : "Ish yoki buyurtmachini topish",
+  "slide_2_button_next_1" : "Boshlash",
+  "slide_2_button_back_1" : "Orqaga",
+
+  "login_text_title" : "Kirish",
+  "login_text_button" : "Keyingisi",
+  "login_text_text" : "Telefon",
+
+  "confirm_text_title" : "SMS kodini kiriting va telefon raqamingizni tasdiqlang",
+  "confirm_text_send_again" : "Qayta joʻnatish",
+  "confirm_text_ask_sms" : "dan so'ng kodni olishga takroriy so'rov yuborishingiz mumkin",
+
+  "profile_text_bottom_sheet" : "Profil",
+  "change_language_text_bottom_sheet" : "Tilni oʻzgartirish",
+  "cal_history_text_bottom_sheet" : "Qo'ng'iroqlar tarixi",
+  "log_out_text_bottom_sheet" : "Chiqish",
+
+  "title_edit_name_page" : "Malumotlar",
+  "text_hint_edit_name_page" : "F.I.O",
+  "button_edit_name_page" : "Davom etish",
+
+  "search_text_in_main" : "Men izlamoqdaman...",
+
+  "edit_photo_text_in_profile" : "Rasmni o'zgartirish",
+  "kontakt_text_in_profile" : "Kontakt",
+  "xodim_profili_text_in_profile" : "Xodim profili",
+  "xodim_rejimi_text_in_profile" : "Xodim rejimi",
+  "about_us_text_in_profile" : "O'zingiz, iste'dodlaringiz haqida",
+  "about_us_text_title" : "O'zim haqimda",
+  "about_us_text_help" : "O'zingiz va kasbingiz to'g'risida qisqcha ma'lumot kiriting.",
+  "region_text_in_profile" : "Mintaqa",
+  "district_text_in_profile" : "Shahar/tuman",
+  "edit_location_title" : "Tahrirlash",
+  "ikki_tuqtadan_ortiq_belgilash_mumkun_emas" : "Ikki nuqtadan ortiq belgilash mumkun emas",
+  "remove_location_title" : "Siz tanlangan joyni ro'yxatdan olib tashlamoqchimisiz. Amalni tasdiqlang.",
+  "remove_location_last_location_text" : "Siz oxirgi manzilingizni o'chira olmaysiz.",
+  "remove_location_button_no" : "Bekorlash",
+  "remove_location_button_yes" : "O'chirish",
+  "remove_location_success_bottom_sheet" : "Muvaffaqiyatli o'chirib tashlandi.",
+  "remove_location_help_bottom_sheet" : "Doimiy joylashuvingizni belgilash uchun xaritani bosing va belgilang.",
+  "add_location_button" : "Davom etish",
+  "add_location_title" : "Yangi lokaciya qo'shish",
+  "add_location_header" : "Uyim",
+  "call_history_text" : "Qo'ng'iroqlar tarixi",
+  "log_out_title" : "Siz tizimnan chiqmoqchimisiz. Amalni tasdiqlaysizmi?",
+  "log_out_button_no" : "Yo'q",
+  "log_out_title_yes" : "Tasdiqlash",
+  "service_page_title" : "Xizmat turi",
+
+  "not_worker_bottom_snackbar_main" : "Bu yonalishdagi ishchi topilmadi",
+  "has_worker_bottom_snackbar_main" : " ishchi topildi",
+
+  "worker_info_speciality_text" : "Ixtisoslik",
+  "worker_info_button" : "Qo'ng'iroq qilish",
+  "worker_doesnt_accepting_orders" : "Foydalanuvchi hozirda buyirtma olishni vaqtinchalik toqtatgan",
+
+
+
+  "sign_up_i" : "Men",
+  "sign_up_employer" : "Ish beruvchi",
+  "sign_up_worker" : "Ishchi",
+
+  "call_empty_text" : " Siz hali hech kimga qo'ng'iroq qilmadingiz"
+
+
+
+
+
+
+}

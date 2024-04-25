@@ -1,0 +1,62 @@
+// DO NOT EDIT. This is code generated via package:easy_localization/generate.dart
+
+abstract class  LocaleKeys {
+  static const select_language_text = 'select_language_text';
+  static const slide_1_description = 'slide_1_description';
+  static const slide_1_title = 'slide_1_title';
+  static const slide_1_button_next_1 = 'slide_1_button_next_1';
+  static const slide_1_button_back_1 = 'slide_1_button_back_1';
+  static const slide_2_description = 'slide_2_description';
+  static const slide_2_title = 'slide_2_title';
+  static const slide_2_button_next_1 = 'slide_2_button_next_1';
+  static const slide_2_button_back_1 = 'slide_2_button_back_1';
+  static const login_text_title = 'login_text_title';
+  static const login_text_button = 'login_text_button';
+  static const login_text_text = 'login_text_text';
+  static const confirm_text_title = 'confirm_text_title';
+  static const confirm_text_send_again = 'confirm_text_send_again';
+  static const confirm_text_ask_sms = 'confirm_text_ask_sms';
+  static const profile_text_bottom_sheet = 'profile_text_bottom_sheet';
+  static const change_language_text_bottom_sheet = 'change_language_text_bottom_sheet';
+  static const cal_history_text_bottom_sheet = 'cal_history_text_bottom_sheet';
+  static const log_out_text_bottom_sheet = 'log_out_text_bottom_sheet';
+  static const title_edit_name_page = 'title_edit_name_page';
+  static const text_hint_edit_name_page = 'text_hint_edit_name_page';
+  static const button_edit_name_page = 'button_edit_name_page';
+  static const search_text_in_main = 'search_text_in_main';
+  static const edit_photo_text_in_profile = 'edit_photo_text_in_profile';
+  static const kontakt_text_in_profile = 'kontakt_text_in_profile';
+  static const xodim_profili_text_in_profile = 'xodim_profili_text_in_profile';
+  static const xodim_rejimi_text_in_profile = 'xodim_rejimi_text_in_profile';
+  static const about_us_text_in_profile = 'about_us_text_in_profile';
+  static const about_us_text_title = 'about_us_text_title';
+  static const about_us_text_help = 'about_us_text_help';
+  static const region_text_in_profile = 'region_text_in_profile';
+  static const district_text_in_profile = 'district_text_in_profile';
+  static const edit_location_title = 'edit_location_title';
+  static const ikki_tuqtadan_ortiq_belgilash_mumkun_emas = 'ikki_tuqtadan_ortiq_belgilash_mumkun_emas';
+  static const remove_location_title = 'remove_location_title';
+  static const remove_location_last_location_text = 'remove_location_last_location_text';
+  static const remove_location_button_no = 'remove_location_button_no';
+  static const remove_location_button_yes = 'remove_location_button_yes';
+  static const remove_location_success_bottom_sheet = 'remove_location_success_bottom_sheet';
+  static const remove_location_help_bottom_sheet = 'remove_location_help_bottom_sheet';
+  static const add_location_button = 'add_location_button';
+  static const add_location_title = 'add_location_title';
+  static const add_location_header = 'add_location_header';
+  static const call_history_text = 'call_history_text';
+  static const log_out_title = 'log_out_title';
+  static const log_out_button_no = 'log_out_button_no';
+  static const log_out_title_yes = 'log_out_title_yes';
+  static const service_page_title = 'service_page_title';
+  static const not_worker_bottom_snackbar_main = 'not_worker_bottom_snackbar_main';
+  static const has_worker_bottom_snackbar_main = 'has_worker_bottom_snackbar_main';
+  static const worker_info_speciality_text = 'worker_info_speciality_text';
+  static const worker_info_button = 'worker_info_button';
+  static const worker_doesnt_accepting_orders = 'worker_doesnt_accepting_orders';
+  static const sign_up_i = 'sign_up_i';
+  static const sign_up_employer = 'sign_up_employer';
+  static const sign_up_worker = 'sign_up_worker';
+  static const call_empty_text = 'call_empty_text';
+
+}

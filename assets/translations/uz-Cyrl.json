@@ -1,0 +1,81 @@
+{
+  "select_language_text" : "Тилни танлаш",
+
+  "slide_1_description" : "Job Baraka дастури  оркали сиз узингизга яқин болган ҳудуддан керекли уста ёки хизматчини тез топа оласиз.",
+  "slide_1_title" : "Ишчи излаш",
+  "slide_1_button_next_1" : "Кейинги",
+  "slide_1_button_back_1" : "Утказиб ёбориш",
+
+
+  "slide_2_description" : "Жумладан иш, қидирувчилар ва хизматкорларда ўзи учун буюртма ёки иши ўрнини топиш имконияти мавжуд.",
+  "slide_2_title" : "Иш ёки буюртмачини топиш",
+  "slide_2_button_next_1" : "Бошлаш",
+  "slide_2_button_back_1" : "Орқага",
+
+  "login_text_title" : "Кириш",
+  "login_text_button" : "Кейингиси",
+  "login_text_text" : "Телефон",
+
+   "confirm_text_title" : "СМС кодини киритинг ва телефон рақамингизни тасдиқланг",
+   "confirm_text_send_again" : "Қайта жўнатиш",
+   "confirm_text_ask_sms" : "дан сўнг кодни олишга такрорий сўров юборишингиз мумкин",
+
+  "profile_text_bottom_sheet" : "Профил",
+  "change_language_text_bottom_sheet" : "Тилни ўзгартириш",
+  "cal_history_text_bottom_sheet" : "Қўнғироқлар тарихи",
+  "log_out_text_bottom_sheet" : "Чиқиш",
+
+  "title_edit_name_page" : "Малумотлар  ",
+  "text_hint_edit_name_page" : "Ф.И.О",
+  "button_edit_name_page" : "Давом этиш",
+
+  "search_text_in_main" : "Мен изламокдаман...",
+
+
+
+  "edit_photo_text_in_profile" : "Расимни ўзгартириш",
+  "kontakt_text_in_profile" : "Контакт",
+  "xodim_profili_text_in_profile" : "Ходим профили",
+  "xodim_rejimi_text_in_profile" : "Ходим режими",
+  "about_us_text_in_profile" : "Ўзингиз, истеъдодларингиз ҳақида",
+  "about_us_text_title" : "Ўзим ҳақимда",
+  "about_us_text_help" : "Ўзингиз ва касбингиз тўғрисида қисқча маълумот киритинг.",
+  "region_text_in_profile" : "Минтақа",
+  "district_text_in_profile" : "Шаҳар/туман",
+  "edit_location_title" : "Таҳрирлаш",
+  "ikki_tuqtadan_ortiq_belgilash_mumkun_emas" : "Икки нуқтадан ортиқ белгилаш мумкун эмас",
+  "remove_location_title" : "Сиз танланган жойни рўйхатдан олиб ташламоқчимисиз. Амални тасдиқланг.",
+  "remove_location_last_location_text" : "Сиз охирги манзилингизни ўчира олмайсиз.",
+  "remove_location_button_no" : "Бекорлаш",
+  "remove_location_button_yes" : "Ўчириш",
+  "remove_location_success_bottom_sheet" : "Муваффақиятли ўчириб ташланди.",
+  "remove_location_help_bottom_sheet" : "Доимий жойлашувингизни белгилаш учун харитани босинг ва белгиланг.",
+  "add_location_button" : "Давом эттириш",
+  "add_location_title" : "Янги локация қўшиш",
+  "add_location_header" : "Уйим",
+  "call_history_text" : "Қўнғироқлар тарихи",
+  "log_out_title" : "Сиз тизимнан чиқмоқчимисиз. Амални тасдиқлайсизми?",
+  "log_out_button_no" : "Йўқ",
+  "log_out_title_yes" : "Тасдиқлаш",
+  "service_page_title" : "Хизмат тури",
+
+  "not_worker_bottom_snackbar_main" : "Бу юналишдаги ишчи топилмади",
+  "has_worker_bottom_snackbar_main" : " ишчи топилди",
+
+  "worker_info_speciality_text" : "Ихтисослик",
+  "worker_info_button" : "Қўнғироқ қилиш",
+  "worker_doesnt_accepting_orders" : "Фойдаланувчи ҳозирда буйиртма олишни вақтинчалик тоқтатган",
+
+  "sign_up_i" : "Мен",
+  "sign_up_employer" : "Иш берувчи",
+  "sign_up_worker" : "Ишчи",
+
+  "call_empty_text" : "Сиз ҳали ҳеч кимга қўнғироқ қилмадингиз"
+
+
+
+
+
+
+
+}

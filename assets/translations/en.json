@@ -1,0 +1,81 @@
+{
+  "select_language_text" : "Select language",
+
+
+  "slide_1_description" : "With the help of the Job Baraka application, you can find a suitable master or worker for yoe near your area.",
+  "slide_1_title" : "Search a worker",
+  "slide_1_button_next_1" : "Next",
+  "slide_1_button_back_1" : "Skip",
+
+
+  "slide_2_description" : "Including job seekers and workers who hava the opportunity to find an order or a job.",
+  "slide_2_title" : "Search for a job or an order",
+  "slide_2_button_next_1" : "Start",
+  "slide_2_button_back_1" : "Back",
+
+  "login_text_title" : "Login",
+  "login_text_button" : "Next",
+  "login_text_text" : "Phone",
+
+  "confirm_text_title" : "Confirm your number by entering the SMS code",
+  "confirm_text_send_again" : "Send again",
+  "confirm_text_ask_sms" : "you can send another survey to get a code",
+
+  "profile_text_bottom_sheet" : "Profile",
+  "change_language_text_bottom_sheet" : "Change the language",
+  "cal_history_text_bottom_sheet" : "Call history",
+  "log_out_text_bottom_sheet" : "Exit",
+
+  "title_edit_name_page" : "Data",
+  "text_hint_edit_name_page" : "Full Name",
+  "button_edit_name_page" : "Next",
+
+  "search_text_in_main" : "I'm looking for...",
+
+  "edit_photo_text_in_profile" : "Change a photo",
+  "kontakt_text_in_profile" : "Contact",
+  "xodim_profili_text_in_profile" : "Worker profile",
+  "xodim_rejimi_text_in_profile" : "Working mode",
+  "about_us_text_in_profile" : "Briefly about your abilities",
+  "about_us_text_title" : "About me",
+  "about_us_text_help" : "Enter brief information about yourself and your abilities.",
+  "region_text_in_profile" : "Region",
+  "district_text_in_profile" : "City/district",
+  "edit_location_title" : "Editing",
+  "ikki_tuqtadan_ortiq_belgilash_mumkun_emas" : "It is impossible to mark more than two points.",
+  "remove_location_title" : "You are about to remove the selected location from the list. Confirm the action.",
+  "remove_location_last_location_text" : "You can't delete your last location.",
+  "remove_location_button_no" : "Reject",
+  "remove_location_button_yes" : "Delete",
+  "remove_location_success_bottom_sheet" : "Successfully deleted",
+  "remove_location_help_bottom_sheet" : "Tap and mark the map to set your permanent location",
+  "add_location_button" : "Continue",
+  "add_location_title" : "Adding a new location",
+  "add_location_header" : "My house",
+  "call_history_text" : "Call history",
+  "log_out_title" : "You are logging out of the system. Do you confirm the action?",
+  "log_out_button_no" : "No",
+  "log_out_title_yes" : "Confirm",
+  "service_page_title" : "Service type",
+
+  "not_worker_bottom_snackbar_main" : "No employees were found in this service",
+  "has_worker_bottom_snackbar_main" : " employees found",
+
+  "worker_info_speciality_text" : "Speciality",
+  "worker_info_button" : "Call",
+  "worker_doesnt_accepting_orders" : "Users have currently temporarily stopped accepting orders",
+
+  "sign_up_i" : "I",
+  "sign_up_employer" : "Employer",
+  "sign_up_worker" : "Worker",
+
+  "call_empty_text" : "You haven't called anyone yet"
+
+
+
+
+
+
+
+
+}

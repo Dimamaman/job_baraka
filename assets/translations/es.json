@@ -1,0 +1,71 @@
+{
+  "select_language_text" : "Тилди таңлаў",
+
+  "slide_1_description" : "Job Baraka қосымшасы арқалы сиз өзиңизге жақын болған аймақтан керекли уста яки хызметшини тез таба аласыз.",
+  "slide_1_title" : "Жумысшы излеў",
+  "slide_1_button_next_1" : "Кейинги",
+  "slide_1_button_back_1" : "Өткерип жибериў",
+
+
+  "slide_2_description" : "Сондай-ақ, жумыс излеўшилер ҳәм хызметшилерде өзи ушын буйыртпа яки жумыс орнын табыў имканияты бар.",
+  "slide_2_title" : "Жумыс яки буйыртпа табыў",
+  "slide_2_button_next_1" : "Баслаў",
+  "slide_2_button_back_1" : "Артқа",
+
+  "login_text_title" : "Кириў",
+  "login_text_button" : "Даўам етиў",
+  "login_text_text" : "Телефон",
+
+   "confirm_text_title" : "СМС кодты киритиў арқалы телефон номериңизди тастыйықлаң",
+   "confirm_text_send_again" : "Қайтадан жибериў",
+   "confirm_text_ask_sms" : "тан соң кодты алыўға қайтадан сораў жиберсеңиз болады",
+
+  "profile_text_bottom_sheet" : "Профиль",
+  "change_language_text_bottom_sheet" : "Тилди өзгертиў",
+  "cal_history_text_bottom_sheet" : "Қоңыраўлар тарийхы",
+  "log_out_text_bottom_sheet" : "Шығыў",
+
+  "title_edit_name_page" : "Мағлыўматлар",
+  "text_hint_edit_name_page" : "Ф.И.О",
+  "button_edit_name_page" : "Даўам етиў",
+
+  "search_text_in_main" : "Мен излеп атырман...",
+
+  "edit_photo_text_in_profile" : "Сүўретти өзгертиў",
+  "kontakt_text_in_profile" : "Контакт",
+  "xodim_profili_text_in_profile" : "Жумысшы профили",
+  "xodim_rejimi_text_in_profile" : "Жумысшы режими",
+  "about_us_text_in_profile" : "Өзиңиз, уқыпларыңыз ҳаққында қысқаша",
+  "about_us_text_title" : "Өзим ҳаққимда",
+  "about_us_text_help" : "Өзиңиз ҳәм кәсипиңиз туўрысында қисқча мағлыўмат киритиң.",
+  "region_text_in_profile" : "Аймақ",
+  "district_text_in_profile" : "Қала/район",
+  "edit_location_title" : "Редакторлаў",
+  "ikki_tuqtadan_ortiq_belgilash_mumkun_emas" : "Еки точкадан артық белгилеў мүмкин емес",
+  "remove_location_title" : "Сиз сайланған жерди дизимнен алып таслап атирсиз. Әмелди тастыйықланг.",
+  "remove_location_last_location_text" : "Сиз ақырғы адресиңизди өшира алмайсыз.",
+  "remove_location_button_no" : "Бийкарлаў",
+  "remove_location_button_yes" : "Өшириў",
+  "remove_location_success_bottom_sheet" : "Табыслы өширип тасланды.",
+  "remove_location_help_bottom_sheet" : "Турақлы жайласыўыңызды белгилеў ушын картаны басың ҳәм белгилең.",
+  "add_location_button" : "Даўам етиў",
+  "add_location_title" : "Жаңа локация қосыў",
+  "add_location_header" : "Үйим",
+  "call_history_text" : "Қоңыраўлар тарийхы",
+  "log_out_title" : "Сиз системадан шиғип атирсиз. Әмелди тастыйиқлсизба?.",
+  "log_out_button_no" : "Яқ",
+  "log_out_title_yes" : "Тастиқлаў",
+  "service_page_title" : "Хизмет тури",
+  "not_worker_bottom_snackbar_main" : "Бундай жонелистеги қәнийге тауылмады",
+  "has_worker_bottom_snackbar_main" : " қәнийге тауылды",
+  "worker_info_speciality_text" : "Қәнигелик",
+  "worker_info_button" : "Қоңыраў етиу",
+  "worker_doesnt_accepting_orders" : "Пайдаланыўшы ҳәзирде буйыртпа қабыллаўды ўақтынша тоқтатқан",
+
+  "sign_up_i" : "Мен",
+  "sign_up_employer" : "Жумисши бериўши",
+  "sign_up_worker" : "Жумисши",
+
+  "call_empty_text" : "Сиз еле ешкимге қоңыраў қылмадыныз"
+
+}

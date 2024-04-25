@@ -1,0 +1,72 @@
+{
+  "select_language_text" : "Выберите язык",
+
+  "slide_1_description" : "С помощью приложения Job Baraka вы можете найти подходящего для вас мастера или рабочего вблизи вашего района",
+  "slide_1_title" : "Искать сотрудника",
+  "slide_1_button_next_1" : "Следующий",
+  "slide_1_button_back_1" : "Пропустить",
+
+
+  "slide_2_description" : "В том числе у ищущих работу и рабочих есть возможность найти себе заказ или работу.",
+  "slide_2_title" : "Поиск рабочего",
+  "slide_2_button_next_1" : "Начать",
+  "slide_2_button_back_1" : "Назад",
+
+  "login_text_title" : "Вход",
+  "login_text_button" : "Продолжить",
+  "login_text_text" : "Телефон",
+
+  "confirm_text_title" : "Подтвердите свой номер, введя СМС-код.",
+  "confirm_text_send_again" : "Отправить повторно",
+  "confirm_text_ask_sms" : "вы можете отправить еще один опрос, чтобы получить код.",
+
+  "profile_text_bottom_sheet" : "Профиль",
+  "change_language_text_bottom_sheet" : "Изменить язык",
+  "cal_history_text_bottom_sheet" : "История звонков",
+  "log_out_text_bottom_sheet" : "Выход",
+
+  "title_edit_name_page" : "Данные",
+  "text_hint_edit_name_page" : "Ф.И.О",
+  "button_edit_name_page" : "Продолжить",
+
+  "search_text_in_main" : "Я ищу...",
+
+  "edit_photo_text_in_profile" : "Изменить фотографию",
+  "kontakt_text_in_profile" : "Контакт",
+  "xodim_profili_text_in_profile" : "Профиль рабочего",
+  "xodim_rejimi_text_in_profile" : "Режим рабочего",
+  "about_us_text_in_profile" : "Коротко ваших способностях",
+  "about_us_text_title" : "О себе",
+  "about_us_text_help" : "Введите краткую информацию о себе, своих способностях.",
+  "region_text_in_profile" : "Регион",
+  "district_text_in_profile" : "Город/район",
+  "edit_location_title" : "Редактирование",
+  "ikki_tuqtadan_ortiq_belgilash_mumkun_emas" : "Не может быть отмечено более двух точек.",
+  "remove_location_title" : "Вы собираетесь удалить выбранные местоположение из списка. Подтвердите действие.",
+  "remove_location_last_location_text" : "Вы не можете удалить своё последнее местоположение.",
+  "remove_location_button_no" : "Отменить",
+  "remove_location_button_yes" : "Удалить",
+  "remove_location_success_bottom_sheet" : "Успешно удалено",
+  "remove_location_help_bottom_sheet" : "Нажмите и отметьте карту, чтобы установить своё постоянное местоположение.",
+  "add_location_button" : "Продолжить",
+  "add_location_title" : "Добавление новой локации",
+  "add_location_header" : "Мой дом",
+  "call_history_text" : "История звонков",
+  "log_out_title" : "Вы выходите из системы, подтверждаете ли воздействие?",
+  "log_out_button_no" : "Нет",
+  "log_out_title_yes" : "Подтвердить",
+  "service_page_title" : "Тип услуги",
+
+  "not_worker_bottom_snackbar_main" : "Работники в этом услуге не найдены",
+  "has_worker_bottom_snackbar_main" : " работники найдены",
+  "worker_info_speciality_text" : "Специальность",
+  "worker_info_button" : "Позвонить",
+  "worker_doesnt_accepting_orders" : "Пользователи в настоящее время временно Прекратил принимать заказы",
+
+  "sign_up_i" : "Я",
+  "sign_up_employer" : "Работодатель",
+  "sign_up_worker" : "Работник",
+
+  "call_empty_text" : "Вы ещё никому не звонили"
+
+}
